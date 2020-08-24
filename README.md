@@ -1,4 +1,5 @@
 # TO DO
-- [ ] Add labels from the file setup/labels.json using this guide: https://gist.github.com/Isaddo/7efebcb673a0957b9c6f07cd14826ea4
+- [ ] Delete all labels manually (todo: automate this)
+- [ ] Copy code from file setup/labels.json into you console while on labels page.
 - [ ] Update this readme!
 - [ ] Delete setup/ directory
