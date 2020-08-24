@@ -115,7 +115,7 @@ var to_add = [
 to_add.forEach(function(label) {
   addLabel(label)
 })
-// One time doesen't always work! This is a brute force fix. This issue can be fixed by simply changeing the program to not delete labels that will be created again. I don't have the time though.
+// One time doesen't always work! This is a brute force fix. This issue can be fixed by simply changing the program to not delete labels that will be created again. I don't have the time though.
 to_add.forEach(function(label) {
   addLabel(label)
 })
