@@ -1,8 +1,8 @@
 /* HOW TO USE THIS:
  * Go on the labels page (eg https://github.com/CuUwrRobotics/repo-name/labels)
-  Paste this script in your inspect-element console
-  Press Enter and spam Space until it's done! Refresh and do it again, since the page needs to update for some of these.
-  This will automatically remove the default labels and add the new ones.
+ * Paste this script in your inspect-element console
+ * Press Enter and spam Space until it's done! Refresh and do it again, since the page needs to update for some of these.
+ * This will automatically remove the default labels and add the new ones.
  */
 
 var to_remove  = [
