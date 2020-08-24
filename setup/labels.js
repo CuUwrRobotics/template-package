@@ -1,7 +1,7 @@
 /* HOW TO USE THIS:
  * Go on the labels page (eg https://github.com/CuUwrRobotics/repo-name/labels)
   Paste this script in your inspect-element console
-  Press Enter and spam Space until it's done!
+  Press Enter and spam Space until it's done! Refresh and do it again, since the page needs to update for some of these.
   This will automatically remove the default labels and add the new ones.
  */
 
@@ -115,7 +115,7 @@ var to_add = [
 to_add.forEach(function(label) {
   addLabel(label)
 })
-// One time doesen't always work! This is a brute force fix.
+// One time doesen't always work! This is a brute force fix. This issue can be fixed by simply changeing the program to not delete labels that will be created again. I don't have the time though.
 to_add.forEach(function(label) {
   addLabel(label)
 })
