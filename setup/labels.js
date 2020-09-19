@@ -49,6 +49,11 @@ var to_add = [
     "color": "eeeeee"
   },
   {
+    "name": "area/docker",
+    "description": "Related to Docker image and container configurations, etc.",
+    "color": "eeeeee"
+  },
+  {
     "name": "good first issue",
     "description": "Good for newcomers",
     "color": "0e8a16"
