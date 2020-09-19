@@ -1,3 +1,10 @@
+/**
+ * @Author: Nick Steele <nichlock>
+ * @Date:   21:37 Sep 18 2020
+ * @Last modified by:   nichlock
+ * @Last modified time: 19:08 Sep 19 2020
+ */
+
 /* HOW TO USE THIS:
  * Go on the labels page (eg https://github.com/CuUwrRobotics/repo-name/labels)
  * Paste this script in your inspect-element console
