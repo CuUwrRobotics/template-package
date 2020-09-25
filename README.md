@@ -5,8 +5,9 @@
 @Last modified time: 19:07 Sep 19 2020
 -->
 
-# To Do's for this Template
-- [ ] Run the code from file setup/labels.json in your console while on the GitHub labels page to update all labels
+# HOW TO SET UP THIS TEMPLATE
+- [ ] Click 'Use this template' and create your repository (check our [workflow information](https://github.com/CuUwrRobotics/workflow) for more on naming repositories first!) 
+- [ ] Run the code from file setup/labels.json in Chrome's Inspect Element console while on the GitHub [labels](../../labels) page to update all labels
 - [ ] If the submodules are not included (if you can't see the folders `ros-docker` and `catkin-setups`), run these commands from your console in the repository:
   - [ ] `git submodule add https://github.com/CuUwrRobotics/ros-docker.git`
   - [ ] `git submodule add https://github.com/CuUwrRobotics/catkin-setups.git`
